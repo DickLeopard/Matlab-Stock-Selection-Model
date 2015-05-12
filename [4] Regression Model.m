@@ -1,5 +1,3 @@
-% 764 Laboratory Exercise 4 
-% Zhao Zhao  UID: 113102264
 clear all; close all; clc
 
 % 4.1 import data
